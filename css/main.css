@@ -1,0 +1,47 @@
+#logo{
+  height: 100px;
+  width: 200px;
+  display: block;
+}
+
+.orange-block{
+  background-color: #ffa500;
+  border: 1px solid black;
+  color: #ffffff;
+}
+
+.nav-link-item{
+  display: inline-block;
+  color: #ffffff;
+  text-decoration: none;
+  margin:5px 25px;
+  padding: 10px 10px;
+  font-weight: bold;
+}
+
+.common-margin{
+  margin-left: 15px;
+}
+
+.vertical-center-row {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.nav > li > a:hover{
+  background-color: #ffb638;
+  border-radius: 20px;
+  color: #ffffff;
+}
+
+.highlight-text{
+  font-weight: bold;
+}
+
+.remove-highlight{
+  font-weight: normal;
+}
+
+h4{
+  text-transform: capitalize;
+}
